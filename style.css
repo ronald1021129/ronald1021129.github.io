@@ -1,2 +1,5 @@
-body {color:blue;}
-h1{color:white;}
+body {background-color:blue;}
+h1{
+	color:#FFFFFF;
+background:blue
+}
