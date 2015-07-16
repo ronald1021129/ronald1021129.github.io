@@ -1,5 +1,6 @@
-body {background-color:blue;}
-h1{
-	color:#FFFFFF;
-background:blue
+#header{
+	background:f2f0c8;
+	text-align: right;
+	line-height: 1em;
 }
+
