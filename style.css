@@ -1,6 +1,46 @@
 #header{
-	background:f2f0c8;
+	background:#f2f0c8;
 	text-align: right;
-	line-height: 1em;
+	line-height: 20mm;
 }
 
+h1{
+	text-decoration: none;
+	font-style: italic;
+	font-size: 24px;
+	font-family: helvetica, arial, sans-serif;
+}
+
+body{
+	background: url(http://wallpapers.free-review.net/wallpapers/19/Poetic_sunset.jpg);
+	background-size: cover;
+}
+
+#introduction{
+	background:rgb(255,0,0);
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 9mm;
+	color: rgb(255,255,255);
+}
+
+h3{
+	font-family: sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#main{
+	text-align: center;
+	font-family:arial;
+	font-size: 28px;
+	background: rgba(0,0,0,.4);
+	color: white;
+	cursor: url(http://google.com);
+}
+
+#image{
+	text-align: left;
+}
