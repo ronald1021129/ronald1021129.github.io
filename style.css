@@ -4,7 +4,7 @@ body{
 	background-size: cover;
 }
 header{
-	background: rgba(225,225,225,0.9);
+	background: rgba(225,225,225,0.5);
 	text-align: right;
 	line-height: 20mm;
 }
@@ -27,6 +27,7 @@ a{
 	text-decoration: none;
 	color:#00FF80;
 	font-family:Vollkorn;
+	padding:0 35px 0 0;
 }
 
 h3{ }
