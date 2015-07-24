@@ -23,6 +23,12 @@ h1{
 	font-family: helvetica, arial, sans-serif;
 }
 
+a{
+	text-decoration: none;
+	color:#00FF80;
+	font-family:Vollkorn;
+}
+
 h3{ }
 #introduction{
 	background:rgb(255,0,0);
