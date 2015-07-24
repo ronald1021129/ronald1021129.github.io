@@ -30,6 +30,11 @@ a{
 }
 
 h3{ }
+
+hr{
+	width:60%;
+}
+
 #introduction{
 	background:rgb(255,0,0);
 	font-family: sans-serif;
@@ -40,6 +45,12 @@ h3{ }
 	font-family: sans-serif;
 	font-size: 18px;
 	font-weight: bold;
+	text-align: center;
+}
+
+
+#about{
+	background:rgba(0,0,0,0.5);
 	text-align: center;
 }
 
