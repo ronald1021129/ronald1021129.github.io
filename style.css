@@ -81,6 +81,21 @@ h1{
 
 }
 
+#interviews{
+	background:url(images/london.jpg) no-repeat center center fixed;
+	background-size: cover;
+	margin:0;
+	padding:300px;
+}
+
+.people{
+	background:rgba(3,169,244,1);
+	border-radius: .5em;
+	color:#fff;
+	min-height: 16em;
+	padding:1em 2em 1em 1em;
+	position:relative;
+}
 	
 /*body{
 	background: url(http://wallpapers.free-review.net/wallpapers/19/Poetic_sunset.jpg);
