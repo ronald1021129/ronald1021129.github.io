@@ -1,5 +1,88 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-body{
+
+a{
+	text-decoration: none;
+	color:#00FF80;
+	font-family:Vollkorn;
+}
+
+.navbar{
+	margin:auto;
+	background-color:#FFFDE2;
+	padding:50px;
+	text-align: left;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
+.logo{
+	text-align: right;
+	font-family:helvetica;
+	margin: 30px;
+	font-size: 30px;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
+nav{
+	display: block;
+	padding:10px;
+}
+
+div{
+	display: block;
+
+}
+
+#introduction{
+	background: url(images/cathay.jpg) no-repeat center center fixed;
+	padding: 300px;
+	background-size: cover;
+	margin:0;
+}
+
+#welcome{
+	position:center;
+	font-family:'Vollkorn';
+	background-color: rgba(0,0,0,0.7);
+	width:800px;
+	padding:50px;
+	margin:auto;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
+
+h1{
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: 50px;
+	color:white;
+}
+
+.columns{
+	margin:0;
+	display: block;
+	background:#E91E63;	
+	float: left;
+
+}
+
+.links{
+	display: block;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 550;
+	color: white;
+	margin:0;
+	float: left;
+	letter-spacing: 1px;
+
+}
+
+	
+/*body{
 	background: url(http://wallpapers.free-review.net/wallpapers/19/Poetic_sunset.jpg);
 	background-size: cover;
 }
@@ -16,22 +99,13 @@ main{
 	color: white;
 	cursor: url(http://google.com);
 }
-h1{
-	text-decoration: none;
-	font-style: italic;
-	font-size: 24px;
-	font-family: helvetica, arial, sans-serif;
-}
+
 
 title{
 	padding:50px 30px 80px 0;
 }
 
-a{
-	text-decoration: none;
-	color:#00FF80;
-	font-family:Vollkorn;
-}
+
 
 h3{ }
 
@@ -40,18 +114,7 @@ hr{
 	text-align: center;
 }
 
-#introduction{
-	background:rgba(255,0,0,0.7);
-	font-family: sans-serif;
-	font-size: 30px;
-	font-weight: bold;
-	line-height: 9mm;
-	color: rgb(255,255,255);
-	font-family: sans-serif;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: center;
-}
+
 
 
 #about{
@@ -62,3 +125,4 @@ hr{
 #image{
 	text-align: left;
 }
+*/
