@@ -96,6 +96,14 @@ h1{
 	padding:1em 2em 1em 1em;
 	position:relative;
 }
+
+.footer{
+	background:#FFBF00;
+	min-height:30px;
+	margin:0;
+	padding:10px;
+	color:#58ACFA;
+}
 	
 /*body{
 	background: url(http://wallpapers.free-review.net/wallpapers/19/Poetic_sunset.jpg);
