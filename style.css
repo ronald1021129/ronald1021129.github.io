@@ -9,24 +9,23 @@ a{
 .navbar{
 	margin:auto;
 	background-color:#FFFDE2;
-	padding:50px;
 	text-align: left;
 	letter-spacing: .1em;
+	padding: 60px;
 	text-transform: uppercase;
 }
 
 .logo{
-	text-align: right;
 	font-family:helvetica;
-	margin: 30px;
 	font-size: 30px;
+	float: right;
 	letter-spacing: .1em;
 	text-transform: uppercase;
 }
 
 nav{
-	display: block;
 	padding:10px;
+	float: left;
 }
 
 div{
@@ -35,7 +34,7 @@ div{
 }
 
 #introduction{
-	background: url(images/cathay.jpg) no-repeat center center fixed;
+	background: url(Images/Cathay.jpg) no-repeat center center fixed;
 	padding: 300px;
 	background-size: cover;
 	margin:0;
@@ -61,28 +60,33 @@ h1{
 }
 
 .columns{
-	margin:0;
-	display: block;
 	background:#E91E63;	
-	float: left;
 
 }
 
 .links{
+	width: 33.333%;
+	float: left;
+	background-color: white;
+	text-align: center;
+}
+
+.links a {
 	display: block;
 	padding: 10px;
 	text-align: center;
 	text-transform: uppercase;
-	font-weight: 550;
 	color: white;
-	margin:0;
-	float: left;
 	letter-spacing: 1px;
+	background-color: #E91E63;
+}
 
+.links p {
+	padding: 30px 10px 30px 10px;
 }
 
 #interviews{
-	background:url(Images/frozen.jpg) no-repeat center center fixed;
+	background: url(Images/Frozen.jpg) no-repeat center center fixed;
 	background-size: cover;
 	margin:0;
 	padding:300px;
@@ -104,48 +108,3 @@ h1{
 	padding:10px;
 	color:#58ACFA;
 }
-	
-/*body{
-	background: url(http://wallpapers.free-review.net/wallpapers/19/Poetic_sunset.jpg);
-	background-size: cover;
-}
-header{
-	background: rgba(225,225,225,0.9);
-	text-align: right;
-	line-height: 20mm;
-}
-main{
-	text-align: center;
-	font-family:arial;
-	font-size: 28px;
-	background: rgba(0,0,0,.4);
-	color: white;
-	cursor: url(http://google.com);
-}
-
-
-title{
-	padding:50px 30px 80px 0;
-}
-
-
-
-h3{ }
-
-hr{
-	width:60%;
-	text-align: center;
-}
-
-
-
-
-#about{
-	background:rgba(0,0,0,0.5);
-	text-align: center;
-}
-
-#image{
-	text-align: left;
-}
-*/
