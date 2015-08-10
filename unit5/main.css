@@ -1,0 +1,32 @@
+.logo{
+	display: inline;
+	text-align: center;
+	letter-spacing:1em;
+	margin:auto;
+	text-transform: uppercase;
+	font-family: Tahoma, Helvetica;
+}
+
+.navbar{
+	display: inline;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: helvetica, San-serif;
+}
+
+
+ul{
+	list-style: none;
+}
+
+li{
+	display: inline;
+	padding:0 3em;
+	letter-spacing: .5em
+}
+
+h1{
+	font-family: helvetica,San-serif;
+	text-transform: uppercase;
+	letter-spacing: .3em;
+}
